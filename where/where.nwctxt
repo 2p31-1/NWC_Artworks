@@ -1,6 +1,6 @@
 !NoteWorthyComposer(2.5)
 |Locale|ACP:949
-|Editor|ActiveStaff:4|CaretIndex:130|CaretPos:0
+|Editor|ActiveStaff:5|CaretIndex:108|CaretPos:-5
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 吏?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -1070,7 +1070,7 @@
 |Bar
 |SustainPedal|Status:Released|Pos:-8|Wide:Y
 |SustainPedal|Pos:-8|Wide:Y
-|Chord|Dur:Whole|Pos:4,8|Opts:Stem=Down
+|Chord|Dur:Whole|Pos:1,4,8|Opts:Stem=Down
 |Bar
 |Chord|Dur:Whole|Pos:4,8
 |Bar
@@ -1089,12 +1089,12 @@
 |Rest|Dur:8th
 |Note|Dur:8th|Pos:-3
 |Note|Dur:8th|Pos:-1
-|Note|Dur:Half|Pos:2
+|Chord|Dur:Half|Pos:-3,-1,2
 |Rest|Dur:8th
 |Bar
 |Rest|Dur:8th
+|Note|Dur:8th|Pos:-6
 |Note|Dur:8th|Pos:-4
-|Note|Dur:8th|Pos:-1
 |Note|Dur:Half|Pos:1
 |Rest|Dur:8th
 |AddStaff|Name:"Staff-3"|Group:"Standard"
@@ -1207,6 +1207,7 @@
 |Bar
 |Chord|Dur:Half,Dotted|Pos:1,4,6
 |Note|Dur:4th|Pos:1
+|Bar
 |AddStaff|Name:"Staff-5"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:10
