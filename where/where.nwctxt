@@ -1,5 +1,6 @@
-!NoteWorthyComposer(2.75)
-|Editor|ActiveStaff:4|CaretIndex:9|CaretPos:6
+!NoteWorthyComposer(2.5)
+|Locale|ACP:949
+|Editor|ActiveStaff:4|CaretIndex:136|CaretPos:5
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 筌?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -1184,7 +1185,6 @@
 |Note|Dur:Half|Pos:1
 |Rest|Dur:8th
 |Bar
-|Note|Dur:8th|Pos:-6
 |AddStaff|Name:"Staff-3"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:11
