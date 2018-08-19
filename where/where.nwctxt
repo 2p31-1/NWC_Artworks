@@ -1,7 +1,6 @@
-!NoteWorthyComposer(2.5)
-|Locale|ACP:949
-|Editor|ActiveStaff:2|CaretIndex:46|CaretPos:7
-|SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 吏?2018 <Name>"|Copyright2:"All Rights Reserved"
+!NoteWorthyComposer(2.75)
+|Editor|ActiveStaff:10|CaretIndex:1|CaretPos:0
+|SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 筌?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
 |Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
@@ -2140,12 +2139,4 @@
 |Bar
 |Note|Dur:Whole,Slur|Pos:8
 |Bar
-|AddStaff|Name:"Staff-7"|Group:"Standard"
-|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
-|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:14
-|StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
-|AddStaff|Name:"Staff-8"|Group:"Standard"
-|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
-|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:15
-|StaffInstrument|Trans:0|DynVel:10,30,45,60,75,92,108,127
 !NoteWorthyComposer-End
