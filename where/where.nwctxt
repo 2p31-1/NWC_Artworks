@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.75)
-|Editor|ActiveStaff:5|CaretIndex:110|CaretPos:3
+|Editor|ActiveStaff:1|CaretIndex:636|CaretPos:-6
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 筌?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -652,6 +652,8 @@
 |Note|Dur:8th,Staccato|Pos:4
 |Note|Dur:Half,Dotted|Pos:4
 |Bar
+|Note|Dur:4th|Pos:-6
+|Note|Dur:4th|Pos:-6
 |AddStaff|Name:"Staff-11"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:3
@@ -1292,11 +1294,6 @@
 |Bar
 |Chord|Dur:Half,Dotted|Pos:1,4,6
 |Note|Dur:4th|Pos:1
-|Bar
-|Note|Dur:4th|Pos:3
-|Note|Dur:4th|Pos:3
-|Note|Dur:4th|Pos:3
-|Note|Dur:4th|Pos:3
 |AddStaff|Name:"Staff-5"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:10
