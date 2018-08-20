@@ -1,5 +1,6 @@
-!NoteWorthyComposer(2.75)
-|Editor|ActiveStaff:9|CaretIndex:42|CaretPos:-4
+!NoteWorthyComposer(2.5)
+|Locale|ACP:949
+|Editor|ActiveStaff:4|CaretIndex:238|CaretPos:-8
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 嶺?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -1275,6 +1276,8 @@
 |SustainPedal|Pos:-8|Wide:Y
 |Chord|Dur:Whole|Pos:-6,-3
 |Bar
+|SustainPedal|Status:Released|Pos:-8|Wide:Y
+|SustainPedal|Pos:-8|Wide:Y
 |Rest|Dur:4th
 |Rest|Dur:8th
 |Note|Dur:16th|Pos:-1
@@ -1282,6 +1285,13 @@
 |Note|Dur:8th,Dotted|Pos:-1
 |Note|Dur:8th,Dotted|Pos:0
 |Note|Dur:8th|Pos:1
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Half
+|Note|Dur:8th,Dotted|Pos:-3
+|Note|Dur:8th,Dotted|Pos:-6
+|Note|Dur:8th|Pos:-8
 |AddStaff|Name:"Staff-3"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:11
@@ -1488,8 +1498,40 @@
 |Note|Dur:8th|Pos:-3
 |Note|Dur:8th|Pos:0
 |Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:-3
 |Note|Dur:8th|Pos:-1
 |Note|Dur:8th|Pos:2
+|Bar
+|SustainPedal|Status:Released|Pos:-8|Wide:Y
+|SustainPedal|Pos:-8|Wide:Y
+|Chord|Dur:8th|Pos:n-6,n1
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-2
+|Chord|Dur:8th|Pos:-5,2|Opts:Stem=Up
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
+|Bar
+|SustainPedal|Status:Released|Pos:-8|Wide:Y
+|SustainPedal|Pos:-8|Wide:Y
+|Chord|Dur:8th|Pos:-2,5
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:0
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:0
+|Note|Dur:8th|Pos:2
+|Bar
+|SustainPedal|Status:Released|Pos:-8|Wide:Y
+|SustainPedal|Pos:-8|Wide:Y
+|Chord|Dur:8th|Pos:-3,4
+|Note|Dur:8th|Pos:-3
+|Note|Dur:8th|Pos:-1
+|Note|Dur:4th|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:-3
 |AddStaff|Name:"Staff-9"|Label:"organ"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:16
