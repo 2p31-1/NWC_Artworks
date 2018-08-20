@@ -1,7 +1,6 @@
-!NoteWorthyComposer(2.5)
-|Locale|ACP:949
-|Editor|ActiveStaff:4|CaretIndex:220|CaretPos:1
-|SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 筌?2018 <Name>"|Copyright2:"All Rights Reserved"
+!NoteWorthyComposer(2.75)
+|Editor|ActiveStaff:9|CaretIndex:42|CaretPos:-4
+|SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 嶺?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
 |Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
@@ -1642,6 +1641,7 @@
 |Clef|Type:Treble
 |TimeSig|Signature:4/4
 |Key|Signature:F#,C#,G#|Tonic:F
+|Dynamic|Style:mf|Pos:7
 |Rest|Dur:Whole
 |Rest|Dur:Whole
 |Rest|Dur:Whole
@@ -2335,5 +2335,51 @@
 |Note|Dur:32nd|Pos:-7
 |Note|Dur:8th|Pos:-7
 |Note|Dur:4th|Pos:-4
+|Bar
+|AddStaff|Name:"Staff-7"|Label:"acoustic guitar"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:12
+|StaffInstrument|Name:"Acoustic Guitar (steel)"|Patch:25|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|TimeSig|Signature:4/4
+|Key|Signature:F#,C#,G#|Tonic:F
+|Dynamic|Style:mf|Pos:7
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Note|Dur:8th|Pos:-8
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-4
+|Note|Dur:8th|Pos:-3
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
+|Bar
+|Rest|Dur:Whole
 |Bar
 !NoteWorthyComposer-End
