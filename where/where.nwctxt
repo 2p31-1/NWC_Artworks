@@ -1,6 +1,6 @@
 !NoteWorthyComposer(2.5)
 |Locale|ACP:949
-|Editor|ActiveStaff:2|CaretIndex:230|CaretPos:4
+|Editor|ActiveStaff:4|CaretIndex:92|CaretPos:0
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 筌?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -1073,12 +1073,15 @@
 |SustainPedal|Status:Released|Pos:-8|Wide:Y
 |SustainPedal|Pos:-8|Wide:Y
 |Bar
+|Note|Dur:8th,Grace|Pos:-2^
 |Chord|Dur:4th,Dotted|Pos:-2,0,3
 |Chord|Dur:4th,Dotted|Pos:-2,0,2|Opts:Stem=Up
 |Chord|Dur:4th|Pos:-2,1
 |SustainPedal|Status:Released|Pos:-8|Wide:Y
 |SustainPedal|Pos:-8|Wide:Y
 |Bar
+|Note|Dur:8th,Grace|Pos:-6^
+|Note|Dur:8th,Grace|Pos:-3^
 |Chord|Dur:Half|Pos:-6,-3,-1
 |Rest|Dur:8th
 |Note|Dur:8th|Pos:-6
@@ -1093,7 +1096,6 @@
 |SustainPedal|Status:Released|Pos:-8|Wide:Y
 |SustainPedal|Pos:-8|Wide:Y
 |Bar
-|Dynamic|Style:p|Pos:7
 |Chord|Dur:8th|Pos:-5,-3|Opts:Stem=Down|Dur2:4th|Pos2:-1
 |Note|Dur:8th|Pos:-8|Opts:Stem=Down
 |Chord|Dur:8th|Pos:-5,-3
@@ -1143,7 +1145,6 @@
 |SustainPedal|Pos:-8|Wide:Y
 |Bar
 |Clef|Type:Treble
-|Dynamic|Style:mf|Pos:7
 |Chord|Dur:4th,Dotted|Pos:-9,-7,-4|Opts:Stem=Up
 |Chord|Dur:4th,Dotted|Pos:-9,-7,-5
 |Chord|Dur:4th|Pos:-9,-6
@@ -1276,7 +1277,6 @@
 |Note|Dur:8th|Pos:#1
 |SustainPedal|Pos:-8|Wide:Y
 |Bar
-|Dynamic|Style:p|Pos:7
 |Note|Dur:4th,Dotted|Pos:1
 |Chord|Dur:4th,Dotted|Pos:-3,1
 |Note|Dur:4th|Pos:1
