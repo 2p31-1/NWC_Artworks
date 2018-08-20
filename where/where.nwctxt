@@ -1,6 +1,6 @@
 !NoteWorthyComposer(2.5)
 |Locale|ACP:949
-|Editor|ActiveStaff:5|CaretIndex:136|CaretPos:-1
+|Editor|ActiveStaff:4|CaretIndex:196|CaretPos:-4
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 筌?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -1212,12 +1212,11 @@
 |Note|Dur:16th,Triplet=End|Pos:-1
 |Bar
 |Note|Dur:8th|Pos:3
-|Note|Dur:4th|Pos:2
-|Note|Dur:16th|Pos:2
-|Note|Dur:8th|Pos:1
+|Note|Dur:8th,Dotted|Pos:2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th,Dotted|Pos:1
 |Note|Dur:8th|Pos:-1
 |Note|Dur:4th|Pos:-4
-|Rest|Dur:16th
 |Bar
 |Note|Dur:4th,Dotted|Pos:-5
 |Note|Dur:4th,Dotted|Pos:-3
@@ -1235,6 +1234,19 @@
 |Chord|Dur:Half|Pos:-6,#-4
 |Note|Dur:4th|Pos:-3
 |Note|Dur:4th|Pos:-2
+|Bar
+|Key|Signature:F#,C#,G#,D#,A#,E#|Tonic:F
+|Chord|Dur:4th,Dotted|Pos:-6,-2
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Note|Dur:8th|Pos:-6
+|Note|Dur:8th|Pos:-3
+|Bar
+|Chord|Dur:Half|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-2
+|Chord|Dur:8th,Dotted|Pos:-4,-1
+|Chord|Dur:8th|Pos:-4,-2
+|Bar
+|Chord|Dur:4th|Pos:-5,-3
 |AddStaff|Name:"Staff-3"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:11
@@ -1379,6 +1391,34 @@
 |Note|Dur:8th|Pos:2
 |Note|Dur:8th|Pos:1
 |Note|Dur:8th|Pos:0
+|Bar
+|Chord|Dur:8th|Pos:-1,6
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:4
+|Note|Dur:4th|Pos:6
+|Note|Dur:8th|Pos:4
+|Note|Dur:8th|Pos:1
+|Note|Dur:8th|Pos:-1
+|Bar
+|Chord|Dur:8th|Pos:-9,-2
+|Note|Dur:8th|Pos:-5
+|Note|Dur:8th|Pos:-2
+|Chord|Dur:4th|Pos:-7,0
+|Note|Dur:8th|Pos:-2
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:0
+|Bar
+|Note|Dur:8th|Pos:-1
+|Note|Dur:8th|Pos:#1
+|Note|Dur:8th|Pos:2
+|Note|Dur:8th|Pos:3
+|Rest|Dur:Half
+|Bar
+|Chord|Dur:Half|Pos:-8,-1
+|Note|Dur:4th|Pos:#1
+|Note|Dur:4th|Pos:3
+|Bar
+|Key|Signature:F#,C#,G#,D#,A#,E#|Tonic:F
 |AddStaff|Name:"Staff-9"|Label:"organ"|Group:"Standard"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:16
