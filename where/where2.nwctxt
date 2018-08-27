@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 !NoteWorthyComposer(2.75)
 |Editor|ActiveStaff:2|CaretIndex:3|CaretPos:0
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 癲?2018 <Name>"|Copyright2:"All Rights Reserved"
+=======
+!NoteWorthyComposer(2.5)
+|Locale|ACP:65001
+|Editor|ActiveStaff:1|CaretIndex:299|CaretPos:-8
+|SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 嶺?2018 <Name>"|Copyright2:"All Rights Reserved"
+>>>>>>> b30bd082c891d898dde800b958de232d7dd94baa
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
 |Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
@@ -313,8 +320,8 @@
 |Note|Dur:4th|Pos:8
 |Note|Dur:8th|Pos:4
 |Note|Dur:8th|Pos:5
-|Note|Dur:16th|Pos:4^
-|Note|Dur:16th|Pos:5
+|Note|Dur:16th,Slur|Pos:4
+|Note|Dur:16th,Slur|Pos:5
 |Bar
 |Note|Dur:Half|Pos:4
 |Rest|Dur:4th
@@ -563,10 +570,9 @@
 |Note|Dur:4th,Dotted|Pos:6
 |Note|Dur:8th|Pos:5
 |Note|Dur:4th|Pos:5
-|Rest|Dur:16th
-|Note|Dur:16th|Pos:4
-|Note|Dur:16th|Pos:5
-|Note|Dur:16th|Pos:4
+|Rest|Dur:8th|Opts:Stem=Down
+|Note|Dur:16th|Pos:4|Opts:Stem=Down
+|Note|Dur:16th|Pos:5|Opts:Stem=Down
 |Bar
 |Note|Dur:8th,Dotted|Pos:6
 |Note|Dur:8th,Dotted|Pos:2
@@ -1048,10 +1054,10 @@
 |Bar
 |Chord|Dur:4th|Pos:-6,1
 |Chord|Dur:4th|Pos:-4,3
-|Chord|Dur:4th|Pos:2,9
-|Chord|Dur:4th|Pos:1,8
+|Chord|Dur:4th|Pos:-5,2,9
+|Chord|Dur:4th|Pos:-6,1,8
 |Bar
-|Chord|Dur:Whole|Pos:0,7
+|Chord|Dur:Whole|Pos:-7,0,7|Opts:Stem=Up
 |AddStaff|Name:"Piano0"|Label:"piano"|LabelAbbr:"P"|Group:"Piano"
 |StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:10|BoundaryBottom:10|Lines:5|WithNextStaff:Brace|Color:Default
 |StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:11
