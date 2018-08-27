@@ -1,5 +1,5 @@
 !NoteWorthyComposer(2.75)
-|Editor|ActiveStaff:9|CaretIndex:283|CaretPos:0
+|Editor|ActiveStaff:13|CaretIndex:262|CaretPos:-5
 |SongInfo|Title:""|Author:"<Name>"|Lyricist:""|Copyright1:"Copyright 癲?2018 <Name>"|Copyright2:"All Rights Reserved"
 |PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
 |Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
@@ -3488,6 +3488,7 @@
 |Rest|Dur:8th|Visibility:Never
 |Bar
 |Rest|Dur:8th|Visibility:Never
+|Rest|Dur:32nd
 |Rest|Dur:8th|Visibility:Never
 |Rest|Dur:8th|Visibility:Never
 |Dynamic|Style:p|Pos:7|Visibility:Never
@@ -3498,7 +3499,6 @@
 |Note|Dur:32nd|Pos:1
 |Dynamic|Style:f|Pos:7|Visibility:Never
 |Note|Dur:4th|Pos:1
-|Rest|Dur:32nd
 |Note|Dur:8th|Pos:1
 |Rest|Dur:8th
 |Bar
